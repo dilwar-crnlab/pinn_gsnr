@@ -10,7 +10,7 @@ To keep the tree exactly as you have it (with the ├── and │ lines) in yo
 <pre>
 ## 📁 Project Structure
 
-```text
+
 mcf_eon_simulator/
 ├── config/
 │   ├── __init__.py
@@ -49,6 +49,5 @@ mcf_eon_simulator/
 │   └── lookup_tables.py
 ├── main.py
 └── run_mcf_simulation.py
-```
 </pre>
 
