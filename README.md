@@ -5,6 +5,12 @@ A Python‐based simulator for multi‐core‐fiber (MCF) elastic optical networ
 ---
 
 ## 📁 Project Structure
+To keep the tree exactly as you have it (with the ├── and │ lines) in your GitHub README, you need to wrap it in a fenced code block so Markdown won’t try to re-flow or interpret it. For example:
+
+<pre>
+## 📁 Project Structure
+
+```text
 mcf_eon_simulator/
 ├── config/
 │   ├── __init__.py
@@ -43,3 +49,6 @@ mcf_eon_simulator/
 │   └── lookup_tables.py
 ├── main.py
 └── run_mcf_simulation.py
+```
+</pre>
+
